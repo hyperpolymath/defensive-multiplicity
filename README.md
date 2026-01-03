@@ -1,5 +1,9 @@
 # Defensive Multiplicity Framework
 
+[![License: MPL-2.0](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://opensource.org/licenses/MPL-2.0)
+[![Philosophy: Palimpsest](https://img.shields.io/badge/Philosophy-Palimpsest-purple.svg)](https://github.com/hyperpolymath/palimpsest-licence)
+
+
 ## Overview
 
 This repository contains the theoretical framework, implementation guidelines, and governance structures for Defensive Multiplicity - a paradigm shift in digital privacy that achieves security through controlled identity proliferation rather than concealment.
@@ -12,7 +16,6 @@ DefensiveMultiplicity-Framework/
 ├── research/ # Threat analysis
 ├── governance/ # Ethical oversight
 └── tech/ # Core systems
-
 
 ## Key Components
 
@@ -48,4 +51,3 @@ This repository contains dual-use technology. By accessing these materials, you 
 1. Never use these tools for harassment or fraud
 2. Disclose any vulnerabilities responsibly
 3. Accept that defensive systems may be weaponized
-
