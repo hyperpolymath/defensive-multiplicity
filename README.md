@@ -1,11 +1,11 @@
-[![License](https://img.shields.io/badge/license-PMPL--1.0-blue.svg)](https://github.com/hyperpolymath/palimpsest-license)
+image:https://img.shields.io/badge/License-PMPL--1.0-blue.svg[License: PMPL-1.0,link="https://github.com/hyperpolymath/palimpsest-license"]
 
 # Defensive Multiplicity Framework
 
 
 
 
-[![Philosophy: Palimpsest](https://img.shields.io/badge/Philosophy-Palimpsest-purple.svg)](https://github.com/hyperpolymath/palimpsest-licence)
+image:https://img.shields.io/badge/Philosophy-Palimpsest-indigo.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-license"]
 
 
 ## Overview
